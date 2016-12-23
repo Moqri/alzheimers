@@ -1,6 +1,5 @@
 ## World's information on Alzheimer's
 
-{% include menu.md %}
 {% include websites.md %}
 
 
