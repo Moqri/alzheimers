@@ -1,6 +1,6 @@
 ## Welcome to Alzheimer's Website
 
-[Alzheimer's Wiki Site] (https://github.com/moqri/alzheimers/wiki)
+[Alzheimer's Wiki Site](https://github.com/moqri/alzheimers/wiki)
 
 You can use the [editor on GitHub](https://github.com/moqri/alzheimers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
